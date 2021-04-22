@@ -1,0 +1,11 @@
+{
+  "name": "psd-project",
+  "version": "1.0.0",
+  "description": "* [General info](#general-info)\r * [Screenshots](#screenshots)\r * [Technologies](#technologies)\r * [Contact](#contact)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wojciech Pyrlik",
+  "license": "ISC"
+}
