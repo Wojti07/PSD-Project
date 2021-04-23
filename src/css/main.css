@@ -1,7 +1,7 @@
 .navigation {
   width: 100vw;
   height: 50vh;
-  background: url("../images/ocean.jpg");
+  background: url("/src/images/ocean.jpg");
   background-size: 100% 100%;
 }
 
@@ -65,18 +65,17 @@
 .gallery {
   background-color: #0f7e87;
   text-align: center;
-  padding: 20px;
 }
 
 .gallery .card {
   height: 400px;
   width: 400px;
-  margin: 10px;
+  margin: 20px auto;
 }
 
 .gallery .card-img-top {
-  padding: 15px;
-  width: 370px;
+  padding: 20px;
+  width: 360px;
   height: 300px;
 }
 

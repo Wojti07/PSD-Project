@@ -57,18 +57,19 @@
 .gallery {
   background-color: #0f7e87;
   text-align: center;
-  padding: 20px;
 
   .card {
     height: 400px;
     width: 400px;
-    margin: 10px;
+    margin: 20px auto;
   }
+
   .card-img-top {
-    padding: 15px;
-    width: 370px;
+    padding: 20px;
+    width: 360px;
     height: 300px;
   }
+
   h5 {
     font-size: 30px;
     text-align: center;
