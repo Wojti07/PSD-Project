@@ -1,7 +1,7 @@
 .navigation {
   width: 100vw;
   height: 50vh;
-  background: url("/src/images/ocean.jpg");
+  background: url("../src/images/ocean.jpg");
   background-size: 100% 100%;
 }
 
