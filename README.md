@@ -23,16 +23,7 @@ Strona typu "one page" wykonana na podstawie szablonu PSD.
    * RWD
     
 ## Code Examples
-
-				
-	<div class="hero-text">
-		<h1>Learn the history of people</h1>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-
-		<div class="d-grid gap-2 col-6 mx-auto">
-			<button class="btn btn-outline-light" type="button">Button</button>
-		</div>
-	</div>
+![Example screenshot](./src/images/kod1.jpg)
 	
 				
 ## Contact
