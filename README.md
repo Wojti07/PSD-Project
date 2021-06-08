@@ -23,7 +23,7 @@ Strona typu "one page" wykonana na podstawie szablonu PSD.
    * RWD
     
 ## Code Examples
-![Example screenshot](./src/images/kod1.jpg)
+![Example screenshot](./src/images/kod1.JPG)
 	
 				
 ## Contact
